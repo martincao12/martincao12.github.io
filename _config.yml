@@ -1,15 +1,15 @@
 # Site settings
-title: Hanson
+title: Martin
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Martin的成长之路"  
 baseurl: ""
 url: "http://martincao12.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "Martin Cao"
+  email: martincao12@gmail.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: martincao12
+weibo_username: 
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "Martin"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : martin
   disqus :
-      short_name : hanson
+      short_name : martin
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
