@@ -6,8 +6,7 @@ header-img: "img/semantic.jpg"
 ---
 
 
-标签列
-
+标签列表
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
