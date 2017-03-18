@@ -26,12 +26,8 @@ zhihu_username:
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-incremental: false
+markdown: kramdown
+highlighter: pygments
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
